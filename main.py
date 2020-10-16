@@ -5,7 +5,7 @@
 
 from microbit import *
 
-LED = pin0
+LED = pin1
 
 while True:
    LED.write_digital(1)
